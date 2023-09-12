@@ -1,0 +1,7 @@
+# MovieApp
+Android Architecture 
+- MVVM
+- HILT DAGGER
+
+CLEAN ARCHITECTURE 
+MODULARIZATION
